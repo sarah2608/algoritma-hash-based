@@ -1,0 +1,21 @@
+body {
+	background-image: url(foto_produk/polos.jpg);
+	background-position: center;
+	
+}
+.warp .header {
+			background-image: url(foto_produk/brickwall.png);
+			background-repeat: no-repeat;
+			background-position: center;
+			padding: 50px 50px;
+			font-style: italic;
+			font-variant: initial;
+			color : grey;
+		}
+.warp .container {
+			padding: 2px 5px;
+			width: 1400px;
+			font-style: bold;
+			font-variant: unset;
+			color: white;
+		}
